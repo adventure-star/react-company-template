@@ -1,0 +1,22 @@
+#blog-header {
+    height: 200px;
+    background:url('./media/blog.jpeg');
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    
+}
+
+.blog-overlay {
+    background-color: rgba(0,0,0, 0.5);
+    height: 100%;
+    padding-top: 50px;
+}
+
+.post-row {
+    
+}

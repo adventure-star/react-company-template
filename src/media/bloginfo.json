@@ -1,0 +1,20 @@
+[
+    {
+        "author": "John Doe",
+        "date": "1/1",
+        "title": "Evolving Technologies",
+        "post": "With constant changes and advancements in technology, it becomes imperative to change both your way of thinking and approach to problem solving. Sandbox Tech has demonstrated that in the face new technologies, they are consistently at the forefront innovation."
+    },
+    {
+        "author": "Jane Doe",
+        "date": "2/1",
+        "title": "Expectations",
+        "post": "As Sandbox Tech continues to rise, so do the expectations for the company. We believe it is our mission to not only meet, but exceed expectations."
+    },
+    {
+        "author": "Skyler Bakken",
+        "date": "3/1",
+        "title": "Striving For Greatness",
+        "post": "A company cannot be great by simply accepting the achievements that have been made. They must strive to be better and continue to bring forth change."
+    }
+]

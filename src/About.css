@@ -1,0 +1,30 @@
+
+#page-header{
+    height: 200px;
+    background:url('./media/slider1.jpg');
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    
+}
+
+.about-overlay {
+    background-color: rgba(0,0,0, 0.5);
+    height: 100%;
+    padding-top: 50px;
+}
+
+#about img{
+    margin-top: -50px;
+}
+
+#icon-boxes .fa {
+    font-size: 50px;
+}
+
+.second-row-icons {
+    margin-bottom: 80px;
+}
